@@ -1,6 +1,6 @@
 # LuminaCAD — 3D Printable Lamp Shade Studio 💡🖨️
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20GitHub%20Pages-success?style=for-the-badge&logo=github)](https://varunaditya0012.github.io/luminacad/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20GitHub%20Pages-success?style=for-the-badge&logo=github)](https://varunaditya0012.github.io/)
 [![Three.js](https://img.shields.io/badge/Three.js-r128-black?style=for-the-badge&logo=three.js)](https://threejs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-**Experience the studio live:** [**https://varunaditya0012.github.io/luminacad/**](https://varunaditya0012.github.io/luminacad/)
+**Experience the studio live:** [**https://varunaditya0012.github.io/**](https://varunaditya0012.github.io/)
 
 ---
 
@@ -66,8 +66,8 @@
 Simply clone and open `index.html` in any modern web browser:
 
 ```bash
-git clone https://github.com/varunaditya0012/luminacad.git
-cd luminacad
+git clone https://github.com/varunaditya0012/varunaditya0012.github.io.git
+cd varunaditya0012.github.io
 # Open in browser directly or with any local server
 npx serve .
 ```
